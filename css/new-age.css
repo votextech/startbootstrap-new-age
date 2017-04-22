@@ -1,8 +1,20 @@
 /*!
  * Start Bootstrap - New Age v3.3.7 (http://startbootstrap.com/template-overviews/new-age)
- * Copyright 2013-2016 Start Bootstrap
+ * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+
+/*mon css*/
+.btn-cta {
+  background: url("../img/bg-pattern.png"), #DE2323;
+  color: white;
+  padding: 20px;
+}
+.jumbotron {
+  background: url("../img/bg-pattern.png"), #fff;
+}
+/*fin de mon css*/
+
 .heading-font {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
